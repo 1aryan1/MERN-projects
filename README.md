@@ -5,7 +5,7 @@ Its a exercise-tracking app having follwing functionalities
 2. Exercises can be modified
 
 # How to run this project
-1. Clone this repository from the below link
+1. Clone this repository 
 2. Open it in VS code or any other IDE
 3. Run the following command in the terminal to install frontend dependencies  `npm install`
 4. Run the following  command in the terminal to start deployment server   `npm start`
