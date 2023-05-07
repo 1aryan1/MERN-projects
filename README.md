@@ -10,12 +10,12 @@ Its a exercise-tracking app having follwing functionalities
 2. Open it in VS code or any other IDE
 3. Navigate into 'backend' directory
 4. Run the bellow command in the terminal to install frontend dependencies
-$ echo npm install
+$  npm install
 5. Run the bellow command in the terminal to start deployment server
-$ echo npm start
+$  npm start
 6. Run the the bellow command in the terminal to install backend dependencies
-$ echo npm install
+$  npm install
 7. Run the bellow command in the terminal to start the server
-$ eco node server.js
+$  node server.js
 
 
